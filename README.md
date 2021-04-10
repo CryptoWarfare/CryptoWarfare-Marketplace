@@ -16,6 +16,9 @@ wget https://raw.githubusercontent.com/c4pt000/OpenSea-Clone/main/docker-deploy-
 chmod +x docker-deploy-opensea-clone-testing
 cat docker-deploy-opensea-clone-testing
 ./docker-deploy-opensea-clone-testing
+---> docker exec -it <docker_hash> bash
+requires 'service apache2 start' 
+
 ```
 
 
