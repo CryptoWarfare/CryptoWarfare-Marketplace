@@ -1,0 +1,6 @@
+#!/bin/bash
+docker run -it -d -p 88:88 -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix c4pt/opensea-clone-no-api
+
+echo 'docker exec -it <returned_docker_VM_hash> bash'
+echo 'browse via local browser http://127.0.0.1:88'
+echo 'edit /etc/apache2/ports.conf from 88 to 80 or ...'
