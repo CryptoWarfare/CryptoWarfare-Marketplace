@@ -1,0 +1,7 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>OpenSea</ShortName>
+  <Description>The first marketplace for rare digital items and crypto collectibles</Description>
+  <Url type="text/html" method="get" template='https://opensea.io/assets?search[query]={searchTerms}'/>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image height="32" width="32" type="image/png">https://storage.googleapis.com/opensea-static/favicon/favicon-32x32.png</Image>
+</OpenSearchDescription>

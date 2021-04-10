@@ -1,0 +1,2 @@
+find . -type f -exec sed -i 's/.js/.js/g' {} +
+
