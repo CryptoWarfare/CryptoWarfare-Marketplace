@@ -20,9 +20,3 @@ cat docker-deploy-opensea-clone-testing
 requires 'service apache2 start' 
 
 ```
-
-
-
-## openSea
-![alt text](https://raw.githubusercontent.com/c4pt000/OpenSea-Clone/main/opensea.png "OpenSea")
-
