@@ -1,4 +1,4 @@
-# Open Sea Clone
+# CryptoWarfare-Marketplace
 Cloned an NFT market website. View original website [here](https://opensea.io/).
 
 
