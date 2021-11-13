@@ -1,5 +1,5 @@
 # CryptoWarfare-Marketplace
-Cloned an NFT market website. View original website [here](https://opensea.io/).
+Cloned NFT market website. View original website [here](https://opensea.io/).
 
 
 
